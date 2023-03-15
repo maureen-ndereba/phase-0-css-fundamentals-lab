@@ -5,6 +5,7 @@
 - Link an external CSS file
 - Write CSS rules to style HTML
 
+
 ## Introduction
 
 In this lab, we will be adding style to our `index.html` page by linking an
