@@ -41,26 +41,39 @@ p {
   margin-top: 10px;
 }
 
-.heading1,
-.heading2,
-.heading3,
-.heading4{
-  display: flex;
-      align-content: center;
-      justify-content: center;
-      gap: 60px;
-      list-style-type: none;
+.details{
+  margin-top: 150px;
+  background: #FF796E;
+  justify-content: center;
+  color: black;
+  float: left;
+  display: flex; 
+  padding: 20px 50px;
 
 }
 
-.par1,
-.par2,
-.par3,
-.par4{
-  display: flex;
-  align-content: center;
+.col-1{
   justify-content: center;
-  gap: 60px;
-      list-style-type: none;
-
+  width: 25%;
+  float: left;
+  
+}
+.col-2{
+  justify-content: center;
+  width: 25%;
+  float: left;
+  
+  
+}
+.col-3{
+  justify-content: center;
+  width: 25%;
+  float: left;
+  
+}
+.col-4{
+  justify-content: center;
+  width: 25%;
+  float: left;
+  
 }
