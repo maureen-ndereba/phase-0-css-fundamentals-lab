@@ -41,14 +41,26 @@ p {
   margin-top: 10px;
 }
 
-div{
-  height: 100px;
-  width: 150px;
-  float: left;
-  margin: 25px;
+.heading1,
+.heading2,
+.heading3,
+.heading4{
   display: flex;
-  align-content: center;
+      align-content: center;
+      justify-content: center;
+      gap: 60px;
+      list-style-type: none;
+
 }
 
+.par1,
+.par2,
+.par3,
+.par4{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  gap: 60px;
+      list-style-type: none;
 
-
+}
